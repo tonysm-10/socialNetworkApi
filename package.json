@@ -1,5 +1,5 @@
 {
-  "name": "26-Stu_Mongoose-CRUD",
+  "name": "socialnetworkapi",
   "version": "1.0.0",
   "description": "Reverse engineer developer activity for CRUD methods in Mongoose",
   "main": "index.js",
@@ -15,5 +15,7 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.9"
-  }
+  },
+  "keywords": [],
+  "author": ""
 }
